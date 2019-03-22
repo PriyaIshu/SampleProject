@@ -7,7 +7,7 @@ Demo1()
 }
 Demo1(int a)
 {
-this(10,20);
+this(10,50);
 System.out.println("1 Argumented Constructor");
 int b=1000;
 System.out.println(a+b);
